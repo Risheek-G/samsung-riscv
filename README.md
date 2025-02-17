@@ -58,7 +58,8 @@
 
 # Task 3
 <details>
-<summary></summary>
+<summary>From the riscv-objdump of your application code, identify 15 unique RISC-V instructions.
+For those 15 instructions, determine the exact 32-bit instruction code in their respective instruction type formats.</summary>
 <br>
 
  ![Image](https://github.com/user-attachments/assets/3a30a7f2-4067-4784-a5a4-af0e47cf8d41)
