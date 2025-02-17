@@ -35,18 +35,12 @@
 
 ![1st ](https://github.com/user-attachments/assets/71adfdc3-60cf-43f6-b50d-d5f13c27f6a3)
 
-![2nd](https://github.com/user-attachments/assets/f7168cdc-930e-45ab-b67b-523a83af6de1)
-
-![O1](https://github.com/user-attachments/assets/9ccbf616-99d9-49ef-8cda-744382d42d58)
-
-![Ofast](https://github.com/user-attachments/assets/bc040f66-deb1-47ea-a4ba-485a17186fb4)
-
 </details>
 <details>
 <summary>C based Lab Screenshots- Implementation of Fibonacci sequence upto 20 terms</summary>
 <br>
   
-  ![WhatsApp Image 2025-01-13 at 21 19 10_cece3c16](https://github.com/user-attachments/assets/78b3572c-e270-4ecc-886e-e2ef2528dee6)
+ ![2nd](https://github.com/user-attachments/assets/f7168cdc-930e-45ab-b67b-523a83af6de1)
 </details>
 <details>
 <summary>RISC-V based lab screenshots for Spike Simulation of the C program fibo.c and Object dump's address allocation observations</summary>
@@ -54,10 +48,11 @@
   
 #### Using -O1 compilation algorithm
 
-![WhatsApp Image 2025-01-15 at 14 07 13_46162e79](https://github.com/user-attachments/assets/0dc6e7ed-e43c-435d-981d-08cfb325e9e9)
+![O1](https://github.com/user-attachments/assets/9ccbf616-99d9-49ef-8cda-744382d42d58)
+
 #### Using -Ofast compliation algorithm
 
-![WhatsApp Image 2025-01-15 at 14 13 52_7dc94361](https://github.com/user-attachments/assets/4226492f-4eec-4740-b72d-e09f2e680537)
+![Ofast](https://github.com/user-attachments/assets/bc040f66-deb1-47ea-a4ba-485a17186fb4)
 
 </details>
 
