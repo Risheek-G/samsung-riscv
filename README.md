@@ -32,9 +32,13 @@
 <details>
 <summary>Spike Simulation for the C program sum1ton.c and object dump's address allocation observation with calculations</summary>
 <br>
-![1st  (1)](https://github.com/user-attachments/assets/7d3bce7e-4b35-4bf1-a8ef-0c2de0d62500)
+
+![1st ](https://github.com/user-attachments/assets/71adfdc3-60cf-43f6-b50d-d5f13c27f6a3)
+
 ![2nd](https://github.com/user-attachments/assets/f7168cdc-930e-45ab-b67b-523a83af6de1)
+
 ![O1](https://github.com/user-attachments/assets/9ccbf616-99d9-49ef-8cda-744382d42d58)
+
 ![Ofast](https://github.com/user-attachments/assets/bc040f66-deb1-47ea-a4ba-485a17186fb4)
 
 </details>
