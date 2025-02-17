@@ -185,6 +185,7 @@ Overall Encoding:
 # Task 4
 
 <details>
+<summary>Perform a functional simulation of the given RISC-V Core Verilog netlist and testbench.</summary>
  
 ## 1. RISC-V RV32I
 
