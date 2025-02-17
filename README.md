@@ -278,7 +278,7 @@ $ gtkwave iiitb_rv32i.vcd
 <details>
 <summary> PDF containing explaination of project idea </summary>
  
-[Task5_samsungriscv (1).pdf](https://github.com/user-attachments/files/18816195/Task5_samsungriscv.1.pdf)
+  [VSDSquadron Project.pdf](https://github.com/user-attachments/files/18832582/VSDSquadron.Project.pdf)
 
 </details>
 
